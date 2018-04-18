@@ -7,9 +7,9 @@
 # The most customisable UHC plugin for Minecraft PE !
 ---
 name: UHC
-author:  Ad5001
+author:  Ad5001 | zGodSky
 version: 1.0
-api: [2.0.0]
+api: [3.0.0-ALPHA12]
 main: Ad5001\UHC\Main
 commands: 
    uhc:
