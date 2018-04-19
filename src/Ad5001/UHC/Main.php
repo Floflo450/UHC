@@ -7,6 +7,7 @@
 #  \____/|_|  |_|\_____|
 # The most customisable UHC plugin for Minecraft PE!
 namespace Ad5001\UHC ; 
+
 use pocketmine\command\CommandSender;
 use pocketmine\command\Command;
 use pocketmine\event\Listener;
